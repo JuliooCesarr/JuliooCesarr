@@ -57,4 +57,4 @@ Busco evolução contínua e gosto de transformar ideias em código.
 <p align="center">Obrigado por visitar meu perfil! 😄</p>
 
 
-<img src="https://raw.githubusercontent.com/JuliooCesarr/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JuliooCesarr/JuliooCesarrgitrepo/output/snake.svg" alt="Snake animation" />
