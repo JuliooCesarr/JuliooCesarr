@@ -57,4 +57,4 @@ Busco evolução contínua e gosto de transformar ideias em código.
 <p align="center">Obrigado por visitar meu perfil! 😄</p>
 
 
-! [Snake animation](https://github.com/JuliooCesarr/JuliooCesarr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JuliooCesarr/JuliooCesarr/blob/output/github-contribution-grid-snake.svg)
